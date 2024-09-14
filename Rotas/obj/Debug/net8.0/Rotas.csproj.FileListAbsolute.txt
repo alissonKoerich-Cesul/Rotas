@@ -1,0 +1,14 @@
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.AssemblyInfoInputs.cache
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.AssemblyInfo.cs
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\Rotas\Rotas\bin\Debug\net8.0\Rotas.exe
+C:\Users\aliss\source\repos\Rotas\Rotas\bin\Debug\net8.0\Rotas.deps.json
+C:\Users\aliss\source\repos\Rotas\Rotas\bin\Debug\net8.0\Rotas.runtimeconfig.json
+C:\Users\aliss\source\repos\Rotas\Rotas\bin\Debug\net8.0\Rotas.dll
+C:\Users\aliss\source\repos\Rotas\Rotas\bin\Debug\net8.0\Rotas.pdb
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.dll
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\refint\Rotas.dll
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.pdb
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\Rotas.genruntimeconfig.cache
+C:\Users\aliss\source\repos\Rotas\Rotas\obj\Debug\net8.0\ref\Rotas.dll
